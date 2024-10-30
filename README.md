@@ -11,6 +11,8 @@
 
 
 ### Step 3: Configure Localhost Network
+![image](https://github.com/user-attachments/assets/d4ac56f0-53b4-4e27-ab54-491dcc8db7d7)
+
 
 Enter the following details in the fields:
 
