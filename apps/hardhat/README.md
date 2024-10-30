@@ -1,18 +1,12 @@
-# BlockDutch Hardhat
-
-### Important available commands in this directory
-
-```sh
-# compile smart contracts developed with hardhat
+# Compile smart contracts using Hardhat
 npm run compile
-# deploy Auction Factory contract to local hardhat network
+# Deploy the Auction Factory contract to a local Hardhat network instance
 npm run deploy:local
-# deploy Auction Factory contract to Sepolia testnet
+# Deploy the Auction Factory contract to the Sepolia test network
 npm run deploy:sepolia
-# start local hardhat network
+# Launch a local Hardhat blockchain network
 npm run node
-# test smart contracts
+# Run tests for the smart contracts
 npm run test
-# test smart contracts with gas report
+# Run tests with a gas usage report
 npm run test:report-gas
-```
